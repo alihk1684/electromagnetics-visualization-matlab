@@ -134,10 +134,10 @@ Solve Laplace’s equation between two infinite cones with fixed potentials.
 #### Contour Plot
 ![Q3 Part A Contour](ProjectScreenshots/Q3PartAContour.PNG)
 
-#### Electric Field Plot
+#### Numerical vs Analytical Comparison
 ![Q3 Part B](ProjectScreenshots/Q3PartB.PNG)
 
-#### Numerical vs Analytical Comparison
+#### E along X and Y
 ![Q3 Part C](ProjectScreenshots/Q3PartC.PNG)
 
 ---
