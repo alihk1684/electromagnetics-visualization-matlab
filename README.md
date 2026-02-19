@@ -9,13 +9,13 @@ The objective of this project was to numerically compute and visualize electric 
 ## 📁 Repository Structure
 
 ```
-/Code
+/Codes
     Q1.m
     Q2.m
     Q3.m
     Q4.m
 
-/ProjectsScreenshots
+/ProjectScreenshots
     Q1PartA.png
     Q1PartB.png
     Q1PartC.png
@@ -68,13 +68,13 @@ Using Gauss’s Law:
 ### Screenshots
 
 #### Solid Sphere – Field Distribution
-![Q1 Part A](ProjectsScreenshots/Q1PartA.png)
+![Q1 Part A](ProjectScreenshots/Q1PartA.png)
 
 #### Field vs Radius
-![Q1 Part B](ProjectsScreenshots/Q1PartB.png)
+![Q1 Part B](ProjectScreenshots/Q1PartB.png)
 
 #### Hollow Shell Case
-![Q1 Part C](ProjectsScreenshots/Q1PartC.png)
+![Q1 Part C](ProjectScreenshots/Q1PartC.png)
 
 ---
 
@@ -102,10 +102,10 @@ Calculate:
 ### Screenshots
 
 #### Potential Contour
-![Q2 Part A](ProjectsScreenshots/Q2PartA.png)
+![Q2 Part A](ProjectScreenshots/Q2PartA.png)
 
 #### Electric Field Vectors
-![Q2 Part B](ProjectsScreenshots/Q2PartB.png)
+![Q2 Part B](ProjectScreenshots/Q2PartB.png)
 
 ---
 
@@ -129,16 +129,16 @@ Solve Laplace’s equation between two infinite cones with fixed potentials.
 ### Screenshots
 
 #### 3D Potential Distribution
-![Q3 Part A 3D](ProjectsScreenshots/Q3PartA3D.png)
+![Q3 Part A 3D](ProjectScreenshots/Q3PartA3D.png)
 
 #### Contour Plot
-![Q3 Part A Contour](ProjectsScreenshots/Q3PartAContour.png)
+![Q3 Part A Contour](ProjectScreenshots/Q3PartAContour.png)
 
 #### Electric Field Plot
-![Q3 Part B](ProjectsScreenshots/Q3PartB.png)
+![Q3 Part B](ProjectScreenshots/Q3PartB.png)
 
 #### Numerical vs Analytical Comparison
-![Q3 Part C](ProjectsScreenshots/Q3PartC.png)
+![Q3 Part C](ProjectScreenshots/Q3PartC.png)
 
 ---
 
@@ -162,13 +162,13 @@ Compute magnetic field produced by a circular loop using the Biot–Savart law.
 ### Screenshots
 
 #### Magnetic Field Lines
-![Q4 Lines](ProjectsScreenshots/Q4Lines.png)
+![Q4 Lines](ProjectScreenshots/Q4Lines.png)
 
 #### Magnetic Field Vectors
-![Q4 Vectors](ProjectsScreenshots/Q4Vectors.png)
+![Q4 Vectors](ProjectScreenshots/Q4Vectors.png)
 
 #### Magnetic Field Along Z-axis
-![Q4 Z-axis](ProjectsScreenshots/Q4Z.png)
+![Q4 Z-axis](ProjectScreenshots/Q4Z.png)
 
 ---
 
